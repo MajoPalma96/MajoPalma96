@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy María-José ¡Encantada de conocerte!
 
-<!--
-**MajoPalma96/MajoPalma96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱🌊📊Sobre mí
+Soy **Bióloga Marina** con experiencia en investigación y consultoría ambiental, actualmente formándome como **Data Scientist** en el bootcamp **TripleTen**.  
+Me apasiona aplicar la ciencia de datos al estudio del medioambiente para generar conocimiento útil y apoyar decisiones sostenibles.
 
-Here are some ideas to get you started:
+He trabajado en proyectos de línea base, monitoreo ecológico, análisis de laboratorio y modelamiento ambiental, combinando ciencia, datos y sostenibilidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | pandas | NumPy | scikit-learn | Matplotlib | Seaborn | SQL | QGIS |  
+Análisis de datos | Visualización | Machine Learning básico | Estadística aplicada  
+
+
+## 🌐 ¿Quieres contactarte conmigo?
+💼 [LinkedIn](https://www.linkedin.com/in/mariajose-palma-carrillo)  
+📧 mpalmac2@gmail.com   
+
+⭐ *Uniendo la ciencia, los datos y la naturaleza.*
