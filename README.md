@@ -11,7 +11,7 @@ Análisis de datos | Visualización | Machine Learning básico | Estadística ap
 
 
 ## 🌐 ¿Quieres contactarte conmigo?
-💼 [LinkedIn](https://www.linkedin.com/in/mariajose-palma-carrillo)  
+💼 <a href="https://www.linkedin.com/in/mariajose-palma-carrillo" style="color:#0A66C2; background-color:white; padding:2px 6px; border-radius:4px; text-decoration:none;">LinkedIn</a>  
 📧 mpalmac2@gmail.com   
 
 ⭐ *Uniendo la ciencia, los datos y la naturaleza.*
